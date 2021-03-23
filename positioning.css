@@ -1,0 +1,54 @@
+body {
+    font-size: 25px;
+    color: black;
+}
+
+#posit {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    background:gray;
+    color:black;
+}
+
+.container {
+    width: 500px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+    
+}
+
+p {
+    margin-bottom: 10px;
+    font-size: 25px;
+   
+}
+
+
+#rel {
+    position: relative;
+    height: 200px;
+    padding: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+    background: gray;
+}
+
+#abs {
+    position: absolute;
+    right: -20px;
+    padding: 10px;
+    width: 150px;
+    bottom: 0;
+    text-align: center;
+    background: white;
+    border: 2px solid black;
+}
